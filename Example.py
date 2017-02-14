@@ -73,14 +73,3 @@ for devices in all_devices:
 	total_time = end_time - start_time 
 
 print total_time
-
-
-
-
-
-
-
-
-
-
-
